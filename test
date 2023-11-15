@@ -1,0 +1,8 @@
+f2                        Y - Z 
+                       /
+main      A - B - C - D     <-    HEAD
+                        \
+                         \
+feature_b                 - X - F - G   
+                                
+          L 
