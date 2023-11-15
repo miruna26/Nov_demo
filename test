@@ -3,6 +3,6 @@ f2                        Y - Z
 main      A - B - C - D     <-    HEAD
                         \
                          \
-feature_b                 - X - F - G   
+feature_b (A - B - C - D) - X - F - G   
                                 
           L 
